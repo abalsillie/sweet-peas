@@ -28,6 +28,8 @@ THEN I can create a new project, adding a description and funding amount sought
 WHEN I select logout
 THEN I am logged out of the application
 
+![](./client/src/assets/screenshot.png)
+
 ## Deployed Application Link
 [Deployed Application Link](https://jdt-events.herokuapp.com/)
 
