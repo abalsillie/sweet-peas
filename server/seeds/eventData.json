@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "WWF Fundraiser",
+    "description": "Climate campaign",
+    "cost": 1000,
+    "location": "Melbourne, VIC",
+    "date": "2024-07-01T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Housing Affordability",
+    "description": "Housing policy advocacy",
+    "cost": 3000,
+    "location": "Sydney, NSW",
+    "date": "2024-07-01T10:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "Improving Education",
+    "description": "Education resources for remote schools",
+    "cost": 5000,
+    "location": "Brisbane, QLD",
+    "date": "2024-07-01T10:00:00.000Z"
+  }
+]

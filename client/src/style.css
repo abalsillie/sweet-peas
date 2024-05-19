@@ -1,0 +1,177 @@
+/* font across application */
+:root {
+  font-family: "Outfit", Arial, Helvetica, sans-serif;
+}
+
+/* nav */
+.icon {
+  max-width: 5%;
+  border-radius: 50%;
+}
+
+.navlink {
+  font-size: x-large;
+  background-color: #21ba94;
+  border-radius: 2rem;
+  flex: auto;
+  text-align: center;
+}
+
+.navlink:hover {
+  background-color: #189d99;
+  box-shadow: 0 0 40px #189d99;
+  transition: box-shadow 0.3s ease;
+}
+
+.nav-link {
+  color: white;
+  margin-right: 1rem;
+}
+
+.nav-link:hover {
+  color: white;
+}
+
+.navbar-brand {
+  color: white;
+}
+
+.navbar-brand:hover {
+  color: white;
+}
+
+/* logo */
+.logo {
+  max-width: 30%;
+  border-radius: 3rem;
+  padding-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* homepage */
+.background {
+  background-image: linear-gradient(to top, #f2e557, #21ba94);
+  padding-bottom: 240px;
+}
+
+.home-title {
+  font-style: italic;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.home-content {
+  text-align: center;
+  font-size: 22px;
+  line-height: 2;
+  width: 60%;
+  margin: auto;
+}
+
+/* contact and donation components */
+.donation-container {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 80px;
+  width: 60%;
+  margin: auto;
+}
+
+.title {
+  text-align: center;
+  color: white;
+  margin-top: 70px;
+  font-style: italic;
+  font-size: xx-large;
+}
+
+.inputField {
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  background-color: transparent;
+  border: 2px solid white;
+  border-radius: 0.5rem;
+}
+
+.inputField:hover {
+  border-color: #EC4899;
+  box-shadow: 0 0 40px #EC4899;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.submitButton {
+  text-align: center;
+  background-color: #EC4899;
+  color: white;
+  font-weight: 500;
+  font-size: 1.3rem;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 2px transparent;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.submitButton:hover {
+  background-color: #ea76b0;
+  box-shadow: 0 0 40px #ea76b0;
+  transition: box-shadow 0.3s ease;
+}
+
+/* create event */
+.create-event {
+  margin-bottom: 10px;
+}
+
+/* event details */
+.event-title {
+  text-align: center;
+  color: white;
+  font-style: italic;
+  font-size: xx-large;
+  padding-top: 3%;
+}
+
+/* Project Clearinghouse page */
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 40px;
+}
+
+.card {
+  border-radius: 2rem;
+}
+
+.card:hover {
+  border: black;
+  box-shadow: 0 0 20px black;
+  transition: box-shadow 0.3s ease;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+  border-top-left-radius: 2rem;
+  border-top-right-radius: 2rem;
+}
+
+.card-body {
+  padding: 15px;
+  background-image: linear-gradient(to left, #a7f257, #21ba94);
+  border-bottom-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+}
+
+.card-title {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.card-text {
+  margin-bottom: 20px;
+}
