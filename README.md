@@ -31,7 +31,7 @@ THEN I am logged out of the application
 ![](./client/src/assets/screenshot.png)
 
 ## Deployed Application Link
-[Deployed Application Link](https://jdt-events.herokuapp.com/)
+[Deployed Application Link]
 
 ## Installation
 1. Clone the Repository from GitHub
@@ -48,6 +48,5 @@ THEN I am logged out of the application
 - JWT: [9.0.0](https://jwt.io)
 - Nodemon: [2.0.12](https://www.npmjs.com/package/nodemon/v/2.0.12)
 - Fortawesome: [6.4.0](https://www.npmjs.com/package/@fortawesome/)
-- Heroku: [Website](https://www.heroku.com/platform)
 - Render
 - Stripe
