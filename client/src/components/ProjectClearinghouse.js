@@ -23,6 +23,12 @@ const ProjectClearinghouse = () => {
         alt={"pea logo"}
       />
       <h1 className="home-title">Project Clearinghouse</h1>
+      <div className="d-flex align-items-center justify-content-center">
+        <button className="submitButton mx-2">Regional and Rural</button>
+        <button className="submitButton mx-2">Small NFPs</button>
+        <button className="submitButton mx-2">Environment</button>
+        <button className="submitButton mx-2">International Development</button>
+      </div>
       <div className="container">
         {events.length === 0 ? (
           <div>No projects found</div>

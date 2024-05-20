@@ -203,6 +203,7 @@ const EventDetails = () => {
                 src={fundraiser}
               />
             </Col>
+            <button className="submitButton" type="submit">Contribute</button>
           </Row>
         </Container>
       </Container>
